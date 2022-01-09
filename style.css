@@ -1,0 +1,31 @@
+#t1 {
+    position: relative;
+    top: 350px;
+    width: 0px;
+    height: 0px;
+    margin: auto;
+    border: 100px solid #ffffff;
+    border-bottom: 100px solid black;
+}
+
+#t2 {
+    position: relative;
+    top: 100px;
+    right: 5px;
+    width: 0px;
+    height: 0px;
+    margin: auto;
+    border: 100px solid #ffffff;
+    border-bottom: 100px solid red;
+}
+
+#t3 {
+    position: relative;
+    top: -150px;
+    right: 5px;
+    width: 0px;
+    height: 0px;
+    margin: auto;
+    border: 100px solid #ffffff;
+    border-bottom: 100px solid blue;
+}
